@@ -1,4 +1,4 @@
-<#>Validação de CPF</1>
+<h1>Validação de CPF</h1>
 Este código fornece uma função JavaScript para validar os números do CPF (Cadastro de Pessoas Físicas) brasileiro. Inclui um formulário HTML com um campo de entrada para inserir um número de CPF e exibe o resultado da validação na página da web.
 
 <h2>Características</h2>
